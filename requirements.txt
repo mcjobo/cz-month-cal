@@ -1,0 +1,6 @@
+reportlab
+babel
+boto3
+dateutils
+requests
+aws-lambda-logging
